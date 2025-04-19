@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Associate",
+    "organisation": "State Street",
+    "startDate": "April, 2025",
+    "endDate": "Present",
+    "experiences": ["Migrating a critical application to AWS", "Mentoring peers"],
+    "imageSrc": "history/statestreet.png"
+  },
+  {
+    "role": "Associate 2",
+    "organisation": "State Street",
+    "startDate": "July, 2022",
+    "endDate": "March, 2025",
+    "experiences": ["Developed a scalable web application", "Implemented CI/CD pipelines", "Built data visualization dashboard"],
+    "imageSrc": "history/statestreet.png"
+  },
+  {
+    "role": "Technology Intern",
+    "organisation": "State Street",
+    "startDate": "January, 2022",
+    "endDate": "June, 2022",
+    "experiences": [
+      "Revamped legacy apps",
+      "Improved system quality"
+    ],
+    "imageSrc": "history/statestreet.png"
+  }
+]

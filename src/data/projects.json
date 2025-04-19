@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Compression and Denoising of Medical Images using Auto Encoders",
+    "imageSrc": "projects/autoencoder.png",
+    "description": "",
+    "skills": ["CNN", "ML/AI"],
+    "source": "https://ieeexplore.ieee.org/document/10093634"
+  },
+  {
+    "title": "Autonomous Car Prototype Using Machine Learning",
+    "imageSrc": "projects/autonomousCar.png",
+    "description": "",
+    "skills": ["Python", "OpenCV", "Arduino"],
+    "source": "https://github.com/SurajSadhula/AutonomousCar"
+  },
+  {
+    "title": "Utility to migrate data from MySQL to PostgreSQL",
+    "imageSrc": "projects/MySQL-to-PostgreSQL.jpg",
+    "description": "",
+    "skills": ["Java", "Spring"],
+    "source": "https://github.com/SurajSadhula/DMS"
+  }
+]
