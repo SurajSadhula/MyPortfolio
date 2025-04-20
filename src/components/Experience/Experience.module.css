@@ -118,3 +118,26 @@
     gap: 9px;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .container {
+    margin-top: 20px;
+  }
+
+  .skill p {
+    font-size: 20px;
+  }
+  
+  .historyItemDetails h3 {
+    font-size: 21px;
+  }
+
+  .historyItemDetails p {
+    font-size: 15px;
+  }
+
+  .historyItemDetails ul {
+    font-size: 18px;
+    margin-left: 0px;
+  }
+}

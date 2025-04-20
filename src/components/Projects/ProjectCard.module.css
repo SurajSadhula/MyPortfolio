@@ -72,3 +72,20 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+
+@media screen and (max-width: 500px) {
+  .image {
+    height: 220px;         
+  }
+
+  .title {
+    font-size: 20px;
+  }
+
+  .skill {
+    font-size: 18px;
+  }
+  .link {
+    font-size: 23px;
+  }
+}
