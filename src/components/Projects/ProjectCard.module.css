@@ -75,17 +75,17 @@
 
 @media screen and (max-width: 500px) {
   .image {
-    height: 220px;         
+    height: 12rem;         
   }
 
   .title {
-    font-size: 20px;
+    font-size: 1rem;
   }
 
   .skill {
-    font-size: 18px;
+    font-size: 0.8rem;
   }
   .link {
-    font-size: 23px;
+    font-size: 1rem;
   }
 }

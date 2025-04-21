@@ -113,6 +113,15 @@
 
 @media screen and (max-width: 500px) {
   .title {
-    font-size: 62px;
+    font-size: 3rem;
+  }
+
+  .description {
+    font-size: 1.4rem;
+    
+  }
+
+  .contactBtn {
+    font-size: 1.1rem;
   }
 }

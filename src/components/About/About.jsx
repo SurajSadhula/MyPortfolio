@@ -16,7 +16,7 @@ export const About = () => {
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" style={{paddingRight: '10px'}}/>
-            <div className={styles.aboutItemText}>
+            <div>
               <h3>Backend Developer</h3>
               <p>
                 I specialize in building scalable and efficient backend systems
@@ -27,7 +27,7 @@ export const About = () => {
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" style={{paddingRight: '10px'}}/>
-            <div className={styles.aboutItemText}>
+            <div>
               <h3>Frontend Developer</h3>
               <p>
                 Experienced in developing responsive and optimized interfaces
