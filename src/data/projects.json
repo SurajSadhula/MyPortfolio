@@ -19,5 +19,12 @@
     "description": "",
     "skills": ["Java", "Spring"],
     "source": "https://github.com/SurajSadhula/DMS"
+  },
+  {
+    "title": "Resume Builder with AI",
+    "imageSrc": "projects/resume_builder.png",
+    "description": "",
+    "skills": ["Javascript", "React", "Huggingface", "AI"],
+    "source": "https://github.com/SurajSadhula/resume-builder"
   }
 ]
